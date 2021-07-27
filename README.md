@@ -2,7 +2,10 @@
 * 🔭 I’m currently working as a Software Engineer at sNav Technologies on an innovative core banking solution known as Coligo.
 * 🌱 I’m currently learning Artificial Intelligence and it's implementation using tensorflow.
 * 💬 Ask me about Angular.
-* 📫 How to reach me: ... https://shafisahal99@gmail.com, https://shafisahal.medium.com, https://stackoverflow.com/users/15203848/shafi-sahal
+* 📫 How to reach me: ... 
+  * mailTo: https://shafisahal99@gmail.com, 
+  * Read my blogs: https://shafisahal.medium.com 
+  * StackOverflow: https://stackoverflow.com/users/15203848/shafi-sahal
 
 <!--
 **shafi-sahal/shafi-sahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
