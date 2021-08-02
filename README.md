@@ -8,7 +8,7 @@
   * StackOverflow: https://stackoverflow.com/users/15203848/shafi-sahal
 
 ![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=crownd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
