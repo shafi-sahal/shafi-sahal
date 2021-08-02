@@ -7,7 +7,7 @@
   * Read my blogs: https://shafisahal.medium.com 
   * StackOverflow: https://stackoverflow.com/users/15203848/shafi-sahal
 
-![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=dark)
+![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
