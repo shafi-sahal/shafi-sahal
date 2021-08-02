@@ -1,4 +1,5 @@
 ### <span align="center">Hi there 👋</align>
+<span align="center">Hi there 👋</align>
 * 🔭 I’m currently working as a Software Engineer at sNav Technologies on an innovative core banking solution known as Coligo.
 * 🌱 I’m currently learning Artificial Intelligence and it's implementation using tensorflow.
 * 💬 Ask me about Angular.
