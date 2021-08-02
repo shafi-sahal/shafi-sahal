@@ -10,8 +10,6 @@
 ![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&hide=python,tcl)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?shafi-sahal" frameborder="0"></iframe>
-
 
 <!--
 **shafi-sahal/shafi-sahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
