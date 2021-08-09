@@ -7,11 +7,8 @@
 <a href="https://twitter.com/_shafisahal" target="_blank">
   <img align="center" src="https://img.shields.io/twitter/follow/_shafisahal?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" alt="Twitter" />
 </a>  
-<a href="https://github.com/shafi-sahal?tab=followers" target="_blank">
-  <img align="center" src="https://img.shields.io/github/followers/shafi-sahal?logo=GitHub&style=for-the-badge" alt="Github" />
-</a> 
-<a href="https://www.linkedin.com/in/zameelpichen/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/zameelpichen/" alt="Linkedin" />
+<a href="https://www.linkedin.com/in/mohammed-shafi-574149190/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mohammed-shafi-574149190/" alt="Linkedin" />
 </a>
 <br/><br/>
 <a href="https://zameelpichen.medium.com/" target="_blank">
