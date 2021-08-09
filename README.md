@@ -8,8 +8,8 @@
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a> 
 <a href="https://twitter.com/_shafisahal" target="_blank">
-  <img align="center" src="https://twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge" alt="Twitter" />
-</a>  
+  <img align="center" src="https://img.shields.io/twitter/follow/_shafisahal?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" alt="Twitter" />
+</a
 <a href="https://www.linkedin.com/in/mohammed-shafi-574149190/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mohammed-shafi-574149190/" alt="Linkedin" />
 </a>
