@@ -11,7 +11,7 @@
   <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mohammed-shafi-574149190/" alt="Linkedin" />
 </a>
 <br/><br/>
-<a href="https://zameelpichen.medium.com/" target="_blank">
+<a href="https://shafisahal.medium.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>  
 <a href="https://www.youtube.com/channel/UCl1rd4T2Dii4kD128CShq5w" target="_blank">
