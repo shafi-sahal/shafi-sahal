@@ -13,14 +13,10 @@
 <a href="https://www.linkedin.com/in/mohammed-shafi-574149190/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mohammed-shafi-574149190/" alt="Linkedin" />
 </a>
-<br/><br/>
- 
-<a href="https://www.youtube.com/channel/UCl1rd4T2Dii4kD128CShq5w" target="_blank">
-  <img align="center" src="https://img.shields.io/static/v1?label=ZameelPichen&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" alt="Youtube" />
-</a>  
+<br/><br/> 
 <br/><br/>
 
-<img align="center" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=zameelpichen.zameelpichen&color=00cf00&style=for-the-badge" alt="visitors" />
+<img align="center" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=shafi-sahal.shafi-sahal&color=00cf00&style=for-the-badge" alt="visitors" />
 
 </p>
 
