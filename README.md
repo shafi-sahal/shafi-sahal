@@ -15,9 +15,6 @@
 </a>
 <br/><br/> 
 <br/><br/>
-
-<img align="center" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=shafi-sahal.shafi-sahal&color=00cf00&style=for-the-badge" alt="visitors" />
-
 </p>
 
 * 🔭 I’m currently working as a Software Engineer at sNav Technologies on an innovative core banking solution known as Coligo.
