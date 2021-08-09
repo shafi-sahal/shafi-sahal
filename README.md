@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://shafisahal.medium.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/follow/Medium-12100E?style=for-the-badge&label=Followers&logo=medium&logoColor=white" alt="Medium" />
+  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a> 
 <a href="https://twitter.com/_shafisahal" target="_blank">
   <img align="center" src="https://img.shields.io/twitter/follow/_shafisahal?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" alt="Twitter" />
