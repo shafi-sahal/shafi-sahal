@@ -26,7 +26,14 @@
   * StackOverflow: https://stackoverflow.com/users/15203848/shafi-sahal
 
 ![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: And WakaTime Stats is from the last few days since which I have integrated it with VS Code*
+<p align="center">
+<a href="#">
+  <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafi-sahal&theme=tokyonight&v=2&hide_progress=true&layout=compact" />
+</a><br/>
+</p>
 
 
 <!--
