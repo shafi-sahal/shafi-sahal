@@ -27,9 +27,9 @@
 
 ![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-*NOTE: And WakaTime Stats is from the last few days since which I have integrated it with VS Code*
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shafisahal&theme=tokyonight)](https://github.com/shafisahal/github-readme-stats)
+<br/>
+<a href="#"><img height="182px" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=shafisahal&theme=dark&v=2"></a>
+</p>
 
 
 <!--
