@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://twitter.com/@_shafisahal" target="_blank">
-  <img align="center" src="https://img.shields.io/twitter/_shafisahal?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" />
+  <img align="center" src="https://img.shields.io/twitter/follow/_shafisahal?color=1DA1F2&&label=Followerslogo=twitter&style=for-the-badge" alt="Twitter" />
 </a>  
 <a href="https://github.com/zameelpichen?tab=followers" target="_blank">
   <img align="center" src="https://img.shields.io/github/followers/zameelpichen?logo=GitHub&style=for-the-badge" alt="Github" />
