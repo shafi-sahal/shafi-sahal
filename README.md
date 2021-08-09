@@ -29,11 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 *NOTE: And WakaTime Stats is from the last few days since which I have integrated it with VS Code*
-<p align="center">
-<a href="#">
-  <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafisahal&theme=gotham&v=2&hide_progress=true&layout=compact" />
-</a><br/>
-</p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shafisahal&theme=tokyonight)](https://github.com/shafisahal/github-readme-stats)
 
 
 <!--
