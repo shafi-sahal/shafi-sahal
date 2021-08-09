@@ -1,5 +1,5 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shafi and welcome to my space</p>
-h4 align="center">Full Stack Web Developer: Angular, Nodejs, Express, MySQL</h4>
+<h4 align="center">Full Stack Web Developer: Angular, Nodejs, Express, MySQL</h4>
 * 🔭 I’m currently working as a Software Engineer at sNav Technologies on an innovative core banking solution known as Coligo.
 * 🌱 I’m currently learning Artificial Intelligence and it's implementation using tensorflow.
 * 💬 Ask me about Angular.
