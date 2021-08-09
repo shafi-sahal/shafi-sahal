@@ -31,7 +31,7 @@
 *NOTE: And WakaTime Stats is from the last few days since which I have integrated it with VS Code*
 <p align="center">
 <a href="#">
-  <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zameelpichen&theme=gotham&v=2&hide_progress=true&layout=compact" />
+  <img height="auto" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shafisahal&theme=gotham&v=2&hide_progress=true&layout=compact" />
 </a><br/>
 </p>
 
