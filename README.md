@@ -25,6 +25,9 @@
   * Read my blogs: https://shafisahal.medium.com 
   * StackOverflow: https://stackoverflow.com/users/15203848/shafi-sahal
 
+Tools I use:
+<img src="https://github.com/shafi-sahal/icons/blob/main/html.png" alt="html5" width="40" height="40"/>
+
 
 ![Shafi's github stats](https://github-readme-stats.vercel.app/api?username=shafi-sahal&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafi-sahal&exclude_repo=PedCount&langs_count=20&hide=roff&private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
