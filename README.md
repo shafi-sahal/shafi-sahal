@@ -18,7 +18,7 @@
 </p>
 
 * 🔭 I’m currently working as a Software Engineer at C3M Cloud Control on a cloud security platform that simplify and unify cloud security.
-* 🌱 I’m currently learning Artificial Intelligence and it's implementation using tensorflow.
+* 🌱 I’m currently learning Microservice Architecture
 * 💬 Ask me about Angular.
 * 📫 How to reach me: ... 
   * mailTo: https://shafisahal99@gmail.com, 
